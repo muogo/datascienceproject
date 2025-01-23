@@ -11,10 +11,10 @@ from src.datascienca.constants import *
 from src.datascienca.utils.common import read_yaml, create_directories,save_json
 
 
-import os
-os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/muogo/datascienceproject.mlflow"
-os.environ["MLFLOW_TRACKING_USERNAME"]="muogo"
-os.environ["MLFLOW_TRACKING_PASSWORD"]="17a8cbea6d785832050e83c7579acba711d72e89"
+# import os
+# os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/muogo/datascienceproject.mlflow"
+# os.environ["MLFLOW_TRACKING_USERNAME"]="muogo"
+# os.environ["MLFLOW_TRACKING_PASSWORD"]="17a8cbea6d785832050e83c7579acba711d72e89"
 
 
 
